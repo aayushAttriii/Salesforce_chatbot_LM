@@ -1,0 +1,37 @@
+[
+  {
+    "attributes": {
+      "type": "AggregateResult"
+    },
+    "AccountId": "001GA00004sLjj7YAC",
+    "totalAmount": 2100000.0
+  },
+  {
+    "attributes": {
+      "type": "AggregateResult"
+    },
+    "AccountId": "001GA00004sLjj6YAC",
+    "totalAmount": 650000.0
+  },
+  {
+    "attributes": {
+      "type": "AggregateResult"
+    },
+    "AccountId": "001GA00004sLjj3YAC",
+    "totalAmount": 235000.0
+  },
+  {
+    "attributes": {
+      "type": "AggregateResult"
+    },
+    "AccountId": "001GA00004sLjj8YAC",
+    "totalAmount": 220000.0
+  },
+  {
+    "attributes": {
+      "type": "AggregateResult"
+    },
+    "AccountId": "001GA00004sLjj2YAC",
+    "totalAmount": 185000.0
+  }
+]

@@ -1,0 +1,7 @@
+2025-04-25 18:56:42,274 - __main__ - INFO - Connecting to Salesforce with username: myselfaayushjain123@gmail.com
+2025-04-25 18:56:43,514 - __main__ - INFO - Connected to Salesforce
+2025-04-25 18:56:43,515 - __main__ - INFO - Running query: SELECT Id, Name, Industry, Phone FROM Account LIMIT 1
+2025-04-25 18:56:44,501 - __main__ - INFO - Found Account: OrderedDict({'attributes': OrderedDict({'type': 'Account', 'url': '/services/data/v59.0/sobjects/Account/001GA00004rzdQKYAY'}), 'Id': '001GA00004rzdQKYAY', 'Name': 'klnef', 'Industry': 'ipwejr', 'Phone': None})
+2025-04-25 18:56:44,503 - __main__ - INFO - Updating Account 001GA00004rzdQKYAY with data: {'Phone': '555-123-4567', 'Industry': 'Technology'}
+2025-04-25 18:56:44,960 - __main__ - INFO - Update result (method 1): 204
+2025-04-25 18:56:44,960 - __main__ - INFO - Update appears to be successful!
